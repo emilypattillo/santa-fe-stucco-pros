@@ -1,0 +1,41 @@
+{
+  "slug": "santa-fe-stucco-pros",
+  "brand": "Santa Fe Stucco Pros",
+  "domain": "santafestuccopros.com",
+  "canonical_base": "https://santafestuccopros.com",
+  "market": "Santa Fe, New Mexico",
+  "phone_display": "(505) 416-4951",
+  "phone_e164": "+15054164951",
+  "layout": "plaster-and-nicho",
+  "build_bundle": "santa-fe-stucco-claude-build-bundle-2026-06-12",
+  "page_count": 15,
+  "public_pages": [
+    "/",
+    "/stucco-repair-santa-fe",
+    "/restucco-color-coat",
+    "/new-stucco-installation",
+    "/parapet-canale-repair",
+    "/synthetic-vs-traditional-stucco",
+    "/stucco-cost-guide",
+    "/contact",
+    "/service-areas",
+    "/eldorado",
+    "/las-campanas",
+    "/tesuque",
+    "/los-alamos",
+    "/espanola",
+    "/privacy",
+    "/terms",
+    "/accessibility"
+  ],
+  "thank_you_page": "/thank-you",
+  "form": {
+    "action": "https://website-landlord-lead-router.pages.dev/submit",
+    "subject": "Stucco request: Santa Fe Stucco Pros"
+  },
+  "indexing": {
+    "homepage": "index, follow",
+    "thank_you": "noindex, nofollow",
+    "not_found": "noindex, follow"
+  }
+}
