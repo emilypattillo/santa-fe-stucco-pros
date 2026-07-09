@@ -37,5 +37,18 @@
     "homepage": "index, follow",
     "thank_you": "noindex, nofollow",
     "not_found": "noindex, follow"
-  }
+  },
+  "status": "live_healthy_phone_twilio_form_delivery_verified_gsc_submitted",
+  "phone": "(505) 416-4951",
+  "tracking_phone": "(505) 416-4951",
+  "twilio_status": "verified_voice_configured",
+  "twilio_verified_last4": "4951",
+  "lead_delivery_status": "delivery_verified",
+  "lead_delivery_verified_at": "2026-07-09T12:23:45-07:00",
+  "last_test_inquiry_at": "2026-07-09T12:23:00Z",
+  "gsc_property": "https://santafestuccopros.com/",
+  "gsc_permission": "siteOwner",
+  "gsc_sitemap_status": "submitted",
+  "gsc_sitemap_last_submitted": "2026-07-09T12:26:09Z",
+  "last_verified_at": "2026-07-09T12:26:00Z"
 }
